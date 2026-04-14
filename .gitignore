@@ -1,6 +1,7 @@
 venv/
 .claude/
 training_datasets/
+.codex
 
 # Python
 __pycache__/
