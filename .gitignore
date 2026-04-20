@@ -2,6 +2,7 @@ venv/
 .claude/
 training_datasets/
 .codex
+Lecture 8 - High frequency price prediction.ipynb
 
 # Python
 __pycache__/
